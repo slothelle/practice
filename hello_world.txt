@@ -1,6 +1,1 @@
-Hello Girl Develop It! By the end of today we will all truly be github MASTERS.  Hooray for version control!
-
-Best People In The World:
-
-1. The attendees of the November 16th github workshop
-2. Nobody else.  That's it.
+Hello Girl Develop It! By the end of today we will all truly be github MASTERS.
