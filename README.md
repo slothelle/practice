@@ -15,4 +15,10 @@ In this class, we cover:
 
 # Note for students
 
-You are welcome to submit as many pull requests as you like to this repository with any code changes you want.
+You are welcome to submit as many pull requests as you like to this repository with any changes you want.
+
+For those who don't know HTML: you can make changes to the *.txt files in the root directory.
+
+For those who do know HTML: you can make changes to the files in the html directory.
+
+Happy Githubbing!
