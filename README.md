@@ -1,24 +1,26 @@
 # Github is awesome
 
-This is an empty repository to practice Git commands taught in the Intro to Git and Github Girl Develop It class.
+This is a dummy repository to practice Git commands taught in the Intro to Git and Github Girl Develop It class.
 
-In this class, we cover:
+For slides and additional information, see the [class website](http://feministy.github.io/gdi-core-git-github).
 
-* git add
-* git commit -m "tacos"
-* git checkout
-* git revert
-* git merge
-* making new branches!
-* having taco parties
-* I'm really hungry
+## Instructions
 
-# Note for students
+Fork this repository and clone your repo to your computer.
 
-You are welcome to submit as many pull requests as you like to this repository with any changes you want.
+Make sure you change `MY_GIT_USERNAME_GOES_HERE` to your actual GitHub username :)
 
-For those who don't know HTML: you can make changes to the *.txt files in the root directory.
+```
+$ git clone https://github.com/MY_GIT_USERNAME_GOES_HERE/gdi-core-git-github-practice.git
+$ cd gdi-core-git-github-practice
+```
 
-For those who do know HTML: you can make changes to the files in the html directory.
+Add, remove, or change files - do whatever you want! **Do not touch the screenshots folder!**
 
-Happy Githubbing!
+Commit the changes to your branch and send me a pull request by clicking the small green button in your repository:
+
+![alt text](https://github.com/feministy/gdi-core-git-github-practice/raw/master/screenshots/pull.png "Pull request button")
+
+Follow the instructions on the pull request screen, taking care to provide detail about the changes you've made.
+
+I'll get a notification that the pull request has a arrived. Check your email! I may reply with comments or questions, and I may merge your changes into mine.
